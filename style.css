@@ -1,0 +1,21 @@
+.body{
+    background-color: #e60505;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+.image1{
+    width: 100px;
+    height: 100px;
+}
+.image2{
+    width: 100px;
+    height: 100px;
+}
+.image-box{
+    display: flex;
+    gap: 20px;
+}
+.image-container{
+    
+}
